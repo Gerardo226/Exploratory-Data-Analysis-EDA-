@@ -9,5 +9,5 @@ In This project:
 Day of the week, month, and year the ad was placed
 The vehicle's age (in years) when the ad was placed
 The vehicle's average mileage per year
-## exploratory data analysis
+## Exploratory data analysis
 studying the following parameters: price, vehicle's age when the ad was placed, mileage, number of cylinders, and condition.
